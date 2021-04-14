@@ -1,0 +1,17 @@
+.ipynb_checkpoints
+data
+venv
+.idea
+.vscode
+**.pytest_cache
+**.pt
+lightning_logs
+**.pyc
+**.local.ipynb
+**.tar
+**.zip
+**.gzip
+**.gz
+**.joblib
+**.pkl
+**.DS_Store
